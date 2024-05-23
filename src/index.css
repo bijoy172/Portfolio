@@ -13,12 +13,12 @@
   padding: 0 !important;
 }
 
-.h {
+/* .h {
   background-image: url("./bd.png");
   background-size: contain;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
+} */
 
 /* width */
 ::-webkit-scrollbar {
