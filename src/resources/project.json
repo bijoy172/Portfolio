@@ -1,0 +1,16 @@
+[
+  {
+    "technologies": "React Circular Progressbar, React Infinite Scroll Component, React Lazy Load Image Component, React Player, Redux Toolkit, Axios, Day.js",
+    "title": "Movix",
+    "image": "https://i.ibb.co/RvQKK99/1.jpg",
+    "description": "Experience the next level of entertainment with Movix, Built with React, Redux, and a plethora of advanced features, Movix offers unparalleled user-friendliness and responsiveness. Seamlessly search for any movie or TV series, filters based on genres and ratings. Discover trending and upcoming releases sorted for daily and weekly exploration.",
+    "link": "https://movix-six-weld.vercel.app/"
+  },
+  {
+    "technologies": "Html, Css, JavaScript",
+    "title": "Dice Game",
+    "image": "https://i.ibb.co/9VJKBn9/dicegame.jpg",
+    "description": "The Dice Game is a fun two-player game where the first to reach a set score wins. Player 1 starts and rolls a dice: 2-6 adds to their current score, but 1 resets it to 0 and switches turns. Players can hold to add their current score to their total and switch turns. The game includes a New Game button to reset scores and restart. Enjoy playing!",
+    "link": "https://bijoy172.github.io/Dice-Game/"
+  }
+]
